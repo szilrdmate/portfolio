@@ -1,4 +1,5 @@
 import React from "react";
+import "../Styles.css";
 
 const Contact: React.FC = () => {
   return (

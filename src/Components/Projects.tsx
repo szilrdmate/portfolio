@@ -1,4 +1,5 @@
 import React from "react";
+import "../Styles.css";
 
 const Projects: React.FC = () => {
   return (
@@ -17,15 +18,12 @@ const Projects: React.FC = () => {
         </div>
         <div className="flex-item">
           <h2>Füge Café</h2>
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. amet
-            consectetur adipisicing elit.
-          </p>
+          <p>React app for a local coffee shop with reservations and CMS.</p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="./public/assets/React-Dark.svg" alt="React" />
-              <img src="./public/assets/JavaScript.svg" alt="JavaScript" />
-              <img src="./public/assets/Sass.svg" alt="Sass" />
+              <img src="/assets/React-Dark.svg" alt="React" />
+              <img src="/assets/JavaScript.svg" alt="JavaScript" />
+              <img src="/assets/Sass.svg" alt="Sass" />
             </div>
             <div className="project-links">
               <a href="http://github.com/szilrdmate/fuge">
@@ -47,22 +45,22 @@ const Projects: React.FC = () => {
           />
         </div>
         <div className="flex-item">
-          <h2>Project N2</h2>
+          <h2>PARQ</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. amet
-            consectetur adipisicing elit.
+            TypeScript React app for a parking service with user account and
+            dashboard.
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="./public/assets/React-Dark.svg" alt="React" />
-              <img src="./public/assets/TypeScript.svg" alt="TypeScript" />
-              <img src="./public/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
+              <img src="/assets/React-Dark.svg" alt="React" />
+              <img src="/assets/TypeScript.svg" alt="TypeScript" />
+              <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
-              <a href="http://">
+              <a href="https://github.com/szilrdmate/proj2">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="http://">
+              <a href="https://project2.vercel.app">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
@@ -80,13 +78,14 @@ const Projects: React.FC = () => {
         <div className="flex-item">
           <h2>CineMap</h2>
           <p>
-            Interactive React app made with Mapbox API, TMDb API and Tailwind
+            Interactive React app made with Mapbox API, to find your favorite
+            movie locations.
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="./public/assets/React-Dark.svg" alt="React" />
-              <img src="./public/assets/JavaScript.svg" alt="JavaScript" />
-              <img src="./public/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
+              <img src="/assets/React-Dark.svg" alt="React" />
+              <img src="/assets/JavaScript.svg" alt="JavaScript" />
+              <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
               <a href="http://github.com/szilrdmate/cinemap">
@@ -110,20 +109,20 @@ const Projects: React.FC = () => {
         <div className="flex-item">
           <h2>Crypto Decius</h2>
           <p>
-            Membership based, e-commerce website with multiple pages, functional
-            cart and booking system.
+            Multi-page appliaction with built in cart feature, and integrated
+            booking system.
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="./public/assets/React-Dark.svg" alt="React" />
-              <img src="./public/assets/JavaScript.svg" alt="JavaScript" />
-              <img src="./public/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
+              <img src="/assets/React-Dark.svg" alt="React" />
+              <img src="/assets/JavaScript.svg" alt="JavaScript" />
+              <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
-              <a href="http://github.com/szilrdmate/cryptodecius">
+              <a href="https://github.com/szilrdmate/cryptodecius">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="http://cryptodecius.vercel.app/">
+              <a href="https://cryptodecius.vercel.app/">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>

@@ -88,7 +88,7 @@ const Header: React.FC = () => {
   return (
     <header>
       <div className="span-div"></div>
-      <img src="./public/assets/logo.svg" className="logo" alt="Logo" />
+      <img src="/assets/logo.svg" className="logo" alt="Logo" />
       {/* Button Container */}
       <div className="btn-container">
         <button className="nav-btn btn-left">

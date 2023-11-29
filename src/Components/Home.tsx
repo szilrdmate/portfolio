@@ -4,15 +4,10 @@ import "../Styles.css";
 const Home: React.FC = () => {
   return (
     <main id="home">
-      <img
-        className="left"
-        src="./public/assets/left.svg"
-        alt="decor"
-        width="245px"
-      />
+      <img className="left" src="/assets/left.svg" alt="decor" width="245px" />
       <img
         className="right"
-        src="./public/assets/right.svg"
+        src="/assets/right.svg"
         alt="decor"
         width="245px"
       />
@@ -37,7 +32,7 @@ const Home: React.FC = () => {
         </div>
 
         <div className="cutout">
-          <img src="./public/assets/szilard-cutout.png" alt="Szilárd Máté" />
+          <img src="/assets/szilard-cutout.png" alt="Szilárd Máté" />
         </div>
 
         <div className="stack-wrapper">
@@ -46,31 +41,28 @@ const Home: React.FC = () => {
           </div>
           <div className="stack">
             <div className="grid-item">
-              <img src="./public/assets/HTML.svg" alt="html" />
+              <img src="/assets/HTML.svg" alt="html" />
             </div>
             <div className="grid-item">
-              <img src="./public/assets/CSS.svg" alt="css" />
+              <img src="/assets/CSS.svg" alt="css" />
             </div>
             <div className="grid-item">
-              <img src="./public/assets/JavaScript.svg" alt="javascript" />
+              <img src="/assets/JavaScript.svg" alt="javascript" />
             </div>
             <div className="grid-item">
-              <img src="./public/assets/TypeScript.svg" alt="typescript" />
+              <img src="/assets/TypeScript.svg" alt="typescript" />
             </div>
             <div className="grid-item">
-              <img src="./public/assets/React-Dark.svg" alt="react" />
+              <img src="/assets/React-Dark.svg" alt="react" />
             </div>
             <div className="grid-item">
-              <img src="./public/assets/Redux.svg" alt="redux" />
+              <img src="/assets/Redux.svg" alt="redux" />
             </div>
             <div className="grid-item">
-              <img
-                src="./public/assets/TailwindCSS-Dark.svg"
-                alt="tailwindcss"
-              />
+              <img src="/assets/TailwindCSS-Dark.svg" alt="tailwindcss" />
             </div>
             <div className="grid-item">
-              <img src="./public/assets/Sass.svg" alt="sass" />
+              <img src="/assets/Sass.svg" alt="sass" />
             </div>
           </div>
         </div>
