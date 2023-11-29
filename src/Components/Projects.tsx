@@ -16,21 +16,22 @@ const Projects: React.FC = () => {
           />
         </div>
         <div className="flex-item">
-          <h2>Project N1</h2>
+          <h2>Füge Café</h2>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. amet
             consectetur adipisicing elit.
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="assets/media/React-Dark.svg" alt="" />
-              <img src="assets/media/Sass.svg" alt="" />
+              <img src="./public/assets/React-Dark.svg" alt="React" />
+              <img src="./public/assets/JavaScript.svg" alt="JavaScript" />
+              <img src="./public/assets/Sass.svg" alt="Sass" />
             </div>
             <div className="project-links">
-              <a href="http://">
+              <a href="http://github.com/szilrdmate/fuge">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="http://">
+              <a href="http://fugebolt.hu">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
@@ -42,7 +43,7 @@ const Projects: React.FC = () => {
           <img
             className="preview"
             src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
-            alt=""
+            alt="Preview of the project"
           />
         </div>
         <div className="flex-item">
@@ -53,9 +54,9 @@ const Projects: React.FC = () => {
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="assets/media/React-Dark.svg" alt="" />
-              <img src="assets/media/TypeScript.svg" alt="" />
-              <img src="assets/media/TailwindCSS-Dark.svg" alt="" />
+              <img src="./public/assets/React-Dark.svg" alt="React" />
+              <img src="./public/assets/TypeScript.svg" alt="TypeScript" />
+              <img src="./public/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
               <a href="http://">
@@ -73,7 +74,7 @@ const Projects: React.FC = () => {
           <img
             className="preview"
             src="https://i.pinimg.com/originals/6c/4c/22/6c4c22b675b5bc3c97cb1a1f788078cc.png"
-            alt=""
+            alt="Preview of the project"
           />
         </div>
         <div className="flex-item">
@@ -83,8 +84,9 @@ const Projects: React.FC = () => {
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="assets/media/React-Dark.svg" alt="" />
-              <img src="assets/media/TailwindCSS-Dark.svg" alt="" />
+              <img src="./public/assets/React-Dark.svg" alt="React" />
+              <img src="./public/assets/JavaScript.svg" alt="JavaScript" />
+              <img src="./public/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
               <a href="http://github.com/szilrdmate/cinemap">
@@ -102,7 +104,7 @@ const Projects: React.FC = () => {
           <img
             className="preview"
             src="https://unbounce.com/photos/indochino-full.jpg"
-            alt=""
+            alt="Preview of the project"
           />
         </div>
         <div className="flex-item">
@@ -113,15 +115,15 @@ const Projects: React.FC = () => {
           </p>
           <div className="resource-wrapper">
             <div className="langs">
-              <img src="assets/media/HTML.svg" alt="" />
-              <img src="assets/media/CSS.svg" alt="" />
-              <img src="assets/media/JavaScript.svg" alt="" />
+              <img src="./public/assets/React-Dark.svg" alt="React" />
+              <img src="./public/assets/JavaScript.svg" alt="JavaScript" />
+              <img src="./public/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
               <a href="http://github.com/szilrdmate/cryptodecius">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="http://cryptodecius.com">
+              <a href="http://cryptodecius.vercel.app/">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
