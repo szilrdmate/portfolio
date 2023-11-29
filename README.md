@@ -20,14 +20,14 @@ Welcome to my portfolio website! As a frontend developer, I've designed and buil
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/szilrdmate/cine-map.git
+   git clone https://github.com/szilrdmate/portfolio.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd cine-map
+   cd portfolio
 
    ```
 
