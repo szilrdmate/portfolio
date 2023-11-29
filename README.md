@@ -1,13 +1,4 @@
-# Portfolio Website Project
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Built With](#built-with)
-- [Artwork](#artwork)
-- [Contact](#contact)
-
-## Overview
+# My Personal Portolfio
 
 Welcome to my portfolio website! As a frontend developer, I've designed and built this site to showcase my skills, projects, and experience.
 
@@ -47,6 +38,13 @@ Welcome to my portfolio website! As a frontend developer, I've designed and buil
 
 5. Open your browser and visit http://localhost:3000
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Artwork](#artwork)
+- [Contact](#contact)
+
 ## Built With
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -70,7 +68,7 @@ Welcome to my portfolio website! As a frontend developer, I've designed and buil
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-All designs & artworks made by @szilrdmate
+All designs & artworks made by me!
 
 ## Contact
 
