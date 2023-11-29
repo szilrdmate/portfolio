@@ -4,18 +4,48 @@
 
 - [Overview](#overview)
 - [Built With](#built-with)
-- [Features](#features)
 - [Artwork](#artwork)
 - [Contact](#contact)
 
 ## Overview
 
-<!-- TODO: Add a screenshot of the live project.
-    1. Link to a 'live demo.'
-    2. Describe your overall experience in a couple of sentences.
-    3. List a few specific technical things that you learned or improved on.
-    4. Share any other tips or guidance for others attempting this or something similar.
- -->
+Welcome to my portfolio website! As a frontend developer, I've designed and built this site to showcase my skills, projects, and experience.
+
+![Local Image](/public/assets/screenshot.png)
+
+**Check out the live demo at:** https://szilardmate.vercel.app
+
+**Or to view it locally, follow these steps:**
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/szilrdmate/cine-map.git
+
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd cine-map
+
+   ```
+
+3. Install dependencies
+
+   ```bash
+   npm install
+
+   ```
+
+4. Start dev server
+
+   ```bash
+   npm start
+
+   ```
+
+5. Open your browser and visit http://localhost:3000
 
 ## Built With
 
@@ -26,7 +56,13 @@
 
 ## Features
 
-<!-- TODO: List what specific 'user problems' that this application solves. -->
+- **Responsive Design:** The website is designed to work seamlessly on various devices and screen sizes.
+
+- **Projects Showcase:** Explore my portfolio of projects, each with a brief description and links to their respective repositories or live demos.
+
+- **Skills:** Learn about the technologies and tools I specialize in as a frontend developer.
+
+- **Contact:** Reach out to me through the provided contact information. I'm always open to new opportunities and collaborations.
 
 ## Artwork
 
@@ -38,6 +74,4 @@ All designs & artworks made by @szilrdmate
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/szilardmate)
-- [Github](https://github.com/szilrdmate/)
-- <mate.szilard.mark@gmail.com>
+You can reach me via email at [mate.szilard.mark@gmail.com](mailto:mate.szilard.mark@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/szilardmate/).
