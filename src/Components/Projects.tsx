@@ -54,13 +54,13 @@ const Projects: React.FC = () => {
             <div className="langs">
               <img src="/assets/React-Dark.svg" alt="React" />
               <img src="/assets/TypeScript.svg" alt="TypeScript" />
-              <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
+              <img src="/assets/CSS.svg" alt="CSS" />
             </div>
             <div className="project-links">
               <a href="https://github.com/szilrdmate/parq">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="https://parq.vercel.app">
+              <a href="https://parq.hu">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
