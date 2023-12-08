@@ -71,7 +71,7 @@ const Projects: React.FC = () => {
         <div className="flex-item">
           <img
             className="preview"
-            src="https://i.pinimg.com/originals/6c/4c/22/6c4c22b675b5bc3c97cb1a1f788078cc.png"
+            src="/assets/cinemap.webp"
             alt="Preview of the project"
           />
         </div>
@@ -88,7 +88,7 @@ const Projects: React.FC = () => {
               <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
-              <a href="http://github.com/szilrdmate/cinemap">
+              <a href="http://github.com/szilrdmate/cine-map">
                 <i className="fa-brands fa-github"></i>
               </a>
               <a href="http://cinemap.vercel.app/">
