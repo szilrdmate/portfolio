@@ -4,13 +4,6 @@ Welcome to my portfolio website! As a frontend developer, I've designed and buil
 
 **Check out the live demo at:** https://szilardmate.vercel.app
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Built With](#built-with)
-- [Artwork](#artwork)
-- [Contact](#contact)
-
 ## Built With
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
