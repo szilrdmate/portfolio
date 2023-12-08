@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
         <div className="flex-item">
           <img
             className="preview"
-            src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
+            src="/assets/parq.webp"
             alt="Preview of the project"
           />
         </div>
@@ -57,10 +57,10 @@ const Projects: React.FC = () => {
               <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind" />
             </div>
             <div className="project-links">
-              <a href="https://github.com/szilrdmate/proj2">
+              <a href="https://github.com/szilrdmate/parq">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="https://project2.vercel.app">
+              <a href="https://parq.vercel.app">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
