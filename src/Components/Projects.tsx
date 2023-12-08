@@ -13,7 +13,7 @@ const Projects: React.FC = () => {
           <img
             className="preview"
             src="https://www.fatbit.com/fab/wp-content/uploads/2018/08/FATbit-Portfolio-Footloos-Homepage.png"
-            alt=""
+            alt="Preview of the projects"
           />
         </div>
         <div className="flex-item">
@@ -26,10 +26,10 @@ const Projects: React.FC = () => {
               <img src="/assets/Sass.svg" alt="Sass" />
             </div>
             <div className="project-links">
-              <a href="http://github.com/szilrdmate/fuge">
+              <a href="https://github.com/szilrdmate/fuge">
                 <i className="fa-brands fa-github"></i>
               </a>
-              <a href="http://fugebolt.hu">
+              <a href="https://fugebolt.hu">
                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
@@ -102,14 +102,14 @@ const Projects: React.FC = () => {
         <div className="flex-item">
           <img
             className="preview"
-            src="https://unbounce.com/photos/indochino-full.jpg"
+            src="/assets/cryptodecius.webp"
             alt="Preview of the project"
           />
         </div>
         <div className="flex-item">
           <h2>Crypto Decius</h2>
           <p>
-            Multi-page appliaction with built in cart feature, and integrated
+            Multi-page appliaction with built with TailwindCSS, and integrated
             booking system.
           </p>
           <div className="resource-wrapper">

@@ -32,7 +32,7 @@ const Home: React.FC = () => {
         </div>
 
         <div className="cutout">
-          <img src="/assets/szilard-cutout.png" alt="Szilárd Máté" />
+          <img src="/assets/szilard-cutout.webp" alt="Szilárd Máté" />
         </div>
 
         <div className="stack-wrapper">
@@ -56,7 +56,7 @@ const Home: React.FC = () => {
               <img src="/assets/React-Dark.svg" alt="react" />
             </div>
             <div className="grid-item">
-              <img src="/assets/Redux.svg" alt="redux" />
+              <img src="/assets/NextJS-Dark.svg" alt="NextJs" />
             </div>
             <div className="grid-item">
               <img src="/assets/TailwindCSS-Dark.svg" alt="tailwindcss" />

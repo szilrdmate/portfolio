@@ -5,9 +5,9 @@ const Header: React.FC = () => {
   const mixedDropdownMenu = document.querySelector(
     "div.mixed-menu-dropdown"
   ) as HTMLDivElement | null;
-  const mixedMenu = document.querySelector(
-    "div.mixed-menu"
-  ) as HTMLDivElement | null;
+  const mixedMenu = document.querySelector("div.mixed-menu") as
+    | HTMLDivElement
+    | undefined;
   const mixedButtonText = document.querySelector(
     ".mixed-menu span"
   ) as HTMLSpanElement | null;
@@ -104,7 +104,11 @@ const Header: React.FC = () => {
 
       <button className="cta">
         <i className="fa-solid fa-link"></i>
-        <a href="#" style={{ color: "#fffdf8" }}>
+        <a
+          target="_blank"
+          href="https://linkedin.com/in/szilardmate"
+          style={{ color: "#fffdf8" }}
+        >
           {" "}
           CONNECT
         </a>

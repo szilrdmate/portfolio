@@ -26,7 +26,7 @@ const About: React.FC = () => {
         </div>
         <div className="about-parent">
           <div className="about-child">
-            <img src="/assets/szilard.jpg" alt="Szilárd Máté" />
+            <img src="/assets/szilard.webp" alt="Szilárd Máté" />
           </div>
           <div className="about-child">
             <h2>This is... me!</h2>
